@@ -19,4 +19,4 @@
 - https://github.com/Tomato6966
 - https://github.com/Cuurle yada https://github.com/CrownBot
 
-#### L
+#### ORİJİNAL PROJE: https://github.com/Tomato6966/discord-leveling-system-ranking-system
